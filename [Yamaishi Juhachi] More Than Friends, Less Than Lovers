@@ -1,0 +1,25 @@
+{
+   "title":"[Yamaishi Juhachi] More Than Friends, Less Than Lovers",
+   "description":"",
+   "author":"Yamaishi Juhachi",
+   "artist":"Yamaishi Juhachi",
+   "cover":"https://i.imgur.com/OQAEbuy.png",
+   "chapters":{
+      "1":{
+         "groups":{
+            "Imgur":"/proxy/api/imgur/chapter/Qb2CVWG"
+         },
+         "last_updated":1624606143,
+         "title":"More Than Friends, Less Than Lovers",
+         "volume":"1"
+      },
+      "2":{
+         "groups":{
+            "Imgur":"/proxy/api/imgur/chapter/gJ4662i"
+         },
+         "last_updated":1624606143,
+         "title":"Squished Between the Two of Them",
+         "volume":"2"
+      }
+   }
+}
